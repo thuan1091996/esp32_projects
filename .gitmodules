@@ -1,0 +1,9 @@
+[submodule "esp_box"]
+	path = esp_box
+	url = https://github.com/thuan1091996/ESP7600.git
+[submodule "networking-esp32"]
+	path = networking-esp32
+	url = https://github.com/thuan1091996/networking-esp32.git
+[submodule "hal_esp32"]
+	path = hal_esp32
+	url = https://github.com/thuan1091996/hal_esp32.git
