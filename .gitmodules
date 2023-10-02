@@ -7,3 +7,6 @@
 [submodule "hal_esp32"]
 	path = hal_esp32
 	url = https://github.com/thuan1091996/hal_esp32.git
+[submodule "actor-framework"]
+	path = actor-framework
+	url = https://github.com/thuan1091996/actor-framework.git
