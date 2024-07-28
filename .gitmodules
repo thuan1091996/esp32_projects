@@ -10,3 +10,6 @@
 [submodule "actor-framework"]
 	path = actor-framework
 	url = https://github.com/thuan1091996/actor-framework.git
+[submodule "esp32_envmon"]
+	path = esp32_envmon
+	url = https://github.com/thuan1091996/esp32_envmon.git
